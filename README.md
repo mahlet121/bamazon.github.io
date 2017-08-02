@@ -1,6 +1,7 @@
 # bamazon.github.io
 open the images to see how the app work
 ## screenshots for bamazon customer and manager
+#### Bamazon customer to buy products
 ![bamazon](images/image1.PNG)
 
 ![bamazon](images/image2.PNG)
